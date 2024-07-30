@@ -11,8 +11,11 @@ const Banner = () => {
             <TitleLogo title='Lets take your business to the next level!' />
           </div>
           <div>
-            <button className='button-primary'>Book a call today!</button>
+            <a href="https://vega.pulsarapps.com" target="_blank" rel="noopener noreferrer">
+              <button className='button-primary'>Try VEGA bot</button>
+           </a>
           </div>
+
         </div>
       </section>
     </>
