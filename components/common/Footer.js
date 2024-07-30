@@ -19,7 +19,9 @@ const Footer = () => {
               <br />
               <h3>+2 012 07398763</h3>
               <br />
-              <button className='button-primary'>Request a call</button>
+              <a href='https://vega.pulsarapps.com' target='_blank' rel='noopener noreferrer' className='button-primary'>
+              Meet Vega Bot
+              </a>
             </div>
             <ul>
               <h3>COMPANY</h3>
